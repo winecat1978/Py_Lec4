@@ -1,0 +1,11 @@
+5 модулей:
+1. сбор информации с датчиков - data_provider:
+def: get_temperature, get_pressure, get_wind_speed
+2. логирование - logger:
+def: temperature_logger, pressure_logger, wind_speed_logger
+3. UI - user_interface:
+def: temperature_view, pressure_view, wind_speed_view
+4. HTML-генератор - html_creator:
+def html_creator
+5. главный модуль - main:
+def button
