@@ -1,5 +1,5 @@
 
-import model_min as m
+import model_mult as m
 import view
 
 def button_click():
